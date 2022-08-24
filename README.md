@@ -24,6 +24,10 @@ Mobile
 
 ### Links
 
+[My Code](https://github.com/Lushifer666/lushifer-qr-code.git)
+[Project Link](https://lushifer666.github.io/lushifer-qr-code/)
+
+
 ## My Process
 
 ### Built with
